@@ -222,7 +222,7 @@
 
   ```json
   {
-  	"email": "joao@mail.com.br",
+  	"email": "joao.jr@mail.com.br",
   	"name": "Joao Jr"
   }
   ```
@@ -238,7 +238,7 @@
     ```json
     {
     	"id": 1,
-    	"email": "joao@mail.com.br",
+    	"email": "joao.jr@mail.com.br",
     	"name": "Joao Jr"
     }
     ```
@@ -546,7 +546,7 @@
             "projectRepository": "url.com.br",
             "projectStartDate": "2023-12-02T03:00:00.000Z",
             "projectEndDate": null,
-            "projectDeveloperName": "ugo"
+            "projectDeveloperName": "Joao"
         },
     ```
 
