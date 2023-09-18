@@ -100,8 +100,8 @@
 
   ```json
   {
-  	"email": "ugo@mail.com.br",
-  	"name": "Ugo"
+  	"email": "joao@mail.com.br",
+  	"name": "Joao"
   }
   ```
 
@@ -115,8 +115,8 @@
     ```json
     {
     	"id": 1,
-    	"name": "Ugo",
-    	"email": "ugo@mail.com.br"
+    	"name": "Joao",
+    	"email": "joao@mail.com.br"
     }
     ```
 
@@ -172,8 +172,8 @@
     ```json
     {
     	"developerId": 1,
-    	"developerName": "Ugo",
-    	"developerEmail": "ugo@mail.com.br",
+    	"developerName": "Joao",
+    	"developerEmail": "joao@mail.com.br",
     	"developerInfoDeveloperSince": null,
     	"developerInfoPreferredOS": null
     }
@@ -222,8 +222,8 @@
 
   ```json
   {
-  	"email": "ugo.rove@mail.com.br",
-  	"name": "Ugo Rove"
+  	"email": "joao@mail.com.br",
+  	"name": "Joao Jr"
   }
   ```
 
@@ -238,8 +238,8 @@
     ```json
     {
     	"id": 1,
-    	"email": "ugo.roveda@mail.com.br",
-    	"name": "Ugo Rove"
+    	"email": "joao@mail.com.br",
+    	"name": "Joao Jr"
     }
     ```
 
